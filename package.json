@@ -1,7 +1,7 @@
 {
   "name": "synapse-project",
   "version": "1.0.0",
-  "description": "Use react redux node express and synapse API",
+  "description": "Use react redux node express and synapse Aip",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
