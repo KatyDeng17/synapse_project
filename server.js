@@ -7,7 +7,7 @@ const cors = require("cors");
 const port = process.env.PORT || 5001;
 const synapse = require("./connectSynapseApi");
 
-app.get("/", synapse.getUsers);
+app.get("/AllUsers", synapse.getUsers);
 
 app.use(cors());
 app.use(bodyParser.json());
